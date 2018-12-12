@@ -1,14 +1,14 @@
 {
-  "main.css": "/a-new-scope/static/css/main.4e3a2f39.chunk.css",
-  "main.js": "/a-new-scope/static/js/main.0f6a2114.chunk.js",
-  "main.js.map": "/a-new-scope/static/js/main.0f6a2114.chunk.js.map",
-  "static/js/1.6f56b47c.chunk.js": "/a-new-scope/static/js/1.6f56b47c.chunk.js",
-  "static/js/1.6f56b47c.chunk.js.map": "/a-new-scope/static/js/1.6f56b47c.chunk.js.map",
+  "main.css": "/a-new-scope/static/css/main.c372114c.chunk.css",
+  "main.js": "/a-new-scope/static/js/main.94604472.chunk.js",
+  "main.js.map": "/a-new-scope/static/js/main.94604472.chunk.js.map",
+  "static/js/1.a3c5ec97.chunk.js": "/a-new-scope/static/js/1.a3c5ec97.chunk.js",
+  "static/js/1.a3c5ec97.chunk.js.map": "/a-new-scope/static/js/1.a3c5ec97.chunk.js.map",
   "runtime~main.js": "/a-new-scope/static/js/runtime~main.02b5d977.js",
   "runtime~main.js.map": "/a-new-scope/static/js/runtime~main.02b5d977.js.map",
-  "static/media/app.scss": "/a-new-scope/static/media/crosshair_clicked.3482a5b0.svg",
-  "static/css/main.4e3a2f39.chunk.css.map": "/a-new-scope/static/css/main.4e3a2f39.chunk.css.map",
+  "static/media/app.scss": "/a-new-scope/static/media/crosshair.4d243681.svg",
+  "static/css/main.c372114c.chunk.css.map": "/a-new-scope/static/css/main.c372114c.chunk.css.map",
   "index.html": "/a-new-scope/index.html",
-  "precache-manifest.e85dc4e4912f53ac8fa41d7c21e2b45c.js": "/a-new-scope/precache-manifest.e85dc4e4912f53ac8fa41d7c21e2b45c.js",
+  "precache-manifest.20e99e8f551afcf978350d025bba0835.js": "/a-new-scope/precache-manifest.20e99e8f551afcf978350d025bba0835.js",
   "service-worker.js": "/a-new-scope/service-worker.js"
 }
