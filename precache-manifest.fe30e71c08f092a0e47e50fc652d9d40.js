@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/a-new-scope/static/media/PathwayGothicOne-Regular.0c13f649.ttf"
   },
   {
-    "revision": "4d243681f613f5eef621303a54d1f88c",
-    "url": "/a-new-scope/static/media/crosshair.4d243681.svg"
-  },
-  {
     "revision": "3482a5b06d6ed1c60505726b46de4a9c",
     "url": "/a-new-scope/static/media/crosshair_clicked.3482a5b0.svg"
+  },
+  {
+    "revision": "4d243681f613f5eef621303a54d1f88c",
+    "url": "/a-new-scope/static/media/crosshair.4d243681.svg"
   },
   {
     "revision": "b1efae55ad19223604dbd4058513ad5c",
