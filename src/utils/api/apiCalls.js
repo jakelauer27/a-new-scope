@@ -1,5 +1,7 @@
 export const fetchTitleScroll = async () => {
-  const response = await fetch('https://swapi.co/api/films/')
+  const response = await fetch('https://swapi.dev/api/films', {
+
+  })
   if (response.ok) {
     return response.json()
   }
@@ -7,7 +9,7 @@ export const fetchTitleScroll = async () => {
 }
 
 export const getCategoryData = async (category) => {
-  const response = await fetch(`https://swapi.co/api/${category}`)
+  const response = await fetch(`https://swapi.dev/api/${category}`)
   if (response.ok) {
     return response.json()
   }

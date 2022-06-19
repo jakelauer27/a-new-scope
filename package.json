@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://jake.lauer27.github.io/a-new-scope",
   "dependencies": {
-    "node-sass": "^4.10.0",
+    "node-sass": "^4.14.1",
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
